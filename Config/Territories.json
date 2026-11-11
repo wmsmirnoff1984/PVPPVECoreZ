@@ -1,0 +1,17 @@
+{
+    "Version": 1,
+    "Territories": [
+        {
+            "Id": "TownMarket_01",
+            "DisplayName": "Example Market",
+            "Enabled": false,
+            "ControlPoint": "ExampleBuilding_ClassName",
+            "OwnerGroupId": "",
+            "Taxation": {
+                "Enabled": false,
+                "BuyTaxPercent": 0.0,
+                "SellTaxPercent": 0.0
+            }
+        }
+    ]
+}

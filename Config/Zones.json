@@ -1,0 +1,24 @@
+{
+    "Version": 1,
+    "Zones": [
+        {
+            "Id": "Tier_1_Safe_Zone_ExampleTown",
+            "DisplayName": "Example Town Safe Zone",
+            "Enabled": true,
+            "Shape": "CIRCLE",
+            "Center": [
+                7500.0,
+                0.0,
+                7500.0
+            ],
+            "Radius": 250.0,
+            "Priority": 100,
+            "Rules": {
+                "PvpMode": "DISABLED",
+                "RewardMultiplier": 0.0,
+                "TradingEnabled": true,
+                "TaxRate": 0.0
+            }
+        }
+    ]
+}

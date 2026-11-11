@@ -1,0 +1,10 @@
+name = "PVPPVECoreZ";
+picture = "";
+logo = "";
+logoSmall = "";
+logoOver = "";
+tooltip = "PVPPVECoreZ";
+overview = "Modular server framework for DayZ.";
+action = "";
+author = "PVPPVECoreZ Team";
+version = "0.1.0";

@@ -1,0 +1,24 @@
+{
+    "Version": 1,
+    "Enabled": true,
+    "ServerMode": "ZONED",
+    "Modules": {
+        "Zones": true,
+        "Combat": true,
+        "Rewards": true,
+        "Economy": true,
+        "TerritoryControl": true,
+        "Crafting": true,
+        "Permissions": true,
+        "Items": true,
+        "Progression": false,
+        "Map": true
+    },
+    "Debug": {
+        "Enabled": true,
+        "LogModuleLoading": true,
+        "LogZoneChecks": false,
+        "LogCombatEvents": true,
+        "LogEconomyEvents": true
+    }
+}
